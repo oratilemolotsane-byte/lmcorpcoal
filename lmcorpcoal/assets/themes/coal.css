@@ -1,0 +1,41 @@
+:root {
+  --bg: #141414;
+  --bg-alt: #1c1c1c;
+  --card: #222222;
+  --ink: #e9e9e9;
+  --heading: #f4f4f4;
+  --muted: #a8a8a8;
+  --line: #3a3a3a;
+  --nav-bg: #0a0a0a;
+  --nav-ink: #cfcfcf;
+  --accent: #ff7a2f;
+  --accent-soft: rgba(255, 122, 47, 0.16);
+  --accent-ink: #17100a;
+  --hero-bg: #0b0b0b;
+  --hero-ink: #fafafa;
+  --hero-muted: #c9c9c9;
+  --hero-accent: #ff9559;
+  --hero-glow: rgba(255, 110, 40, 0.32);
+  --hero-glow2: rgba(255, 60, 20, 0.16);
+  --hero-pattern: repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.04) 0 2px, transparent 2px 9px), radial-gradient(rgba(255, 150, 80, 0.14) 1px, transparent 1.6px) 0 0 / 34px 34px;
+  --band-a: #241209;
+  --band-b: #160d07;
+  --chip: #2c2c2c;
+  --footer-bg: #050505;
+  --footer-ink: #8f8f8f;
+  --footer-accent: #ff7a2f;
+}
+
+.hero {
+  background:
+    radial-gradient(1000px 540px at 80% 110%, rgba(255, 110, 40, 0.28), transparent 60%),
+    radial-gradient(760px 460px at 10% 0%, rgba(255, 200, 120, 0.10), transparent 55%),
+    linear-gradient(160deg, #1b1b1b, #070707 80%);
+}
+
+:root {
+  --bling: #ff9a52;
+  --bling2: #ffd07a;
+  --grad1: #ffffff;
+  --grad2: #b9b9b9;
+}
